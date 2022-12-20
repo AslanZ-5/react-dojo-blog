@@ -25,7 +25,7 @@ const useFetch = (url) => {
         }
        
     })
-   },3000)
+   },500)
    return () => abortCont.abort()
    },[url])
    return {
