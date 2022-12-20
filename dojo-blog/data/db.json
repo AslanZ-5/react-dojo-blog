@@ -29,6 +29,12 @@
       "body": "some random text",
       "author": "mario",
       "id": 5
+    },
+    {
+      "title": "testing redirect",
+      "body": "some random thext",
+      "author": "luigi",
+      "id": 6
     }
   ]
 }
